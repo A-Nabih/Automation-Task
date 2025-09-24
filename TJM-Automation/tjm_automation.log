@@ -1,0 +1,52 @@
+2025-09-23 23:41:33,463 - INFO - Starting TJM Automation Bot...
+2025-09-23 23:41:33,464 - INFO - Output directory ready: C:\Users\abdsh\Desktop\tjm-project
+2025-09-23 23:41:33,464 - INFO - Fetching 10 posts from API...
+2025-09-23 23:41:33,933 - INFO - Successfully fetched 10 posts
+2025-09-23 23:41:33,934 - INFO - Launching Notepad...
+2025-09-23 23:41:35,992 - INFO - Notepad launched and activated successfully
+2025-09-23 23:41:35,992 - INFO - Processing post 1...
+2025-09-23 23:41:42,141 - INFO - Text typed successfully
+2025-09-23 23:41:47,720 - INFO - File saved successfully: post 1.txt
+2025-09-23 23:41:47,720 - INFO - Successfully processed post 1
+2025-09-23 23:41:48,721 - INFO - Processing post 2...
+2025-09-23 23:41:54,555 - INFO - Text typed successfully
+2025-09-23 23:42:00,127 - INFO - File saved successfully: post 2.txt
+2025-09-23 23:42:00,127 - INFO - Successfully processed post 2
+2025-09-23 23:42:01,128 - INFO - Processing post 3...
+2025-09-23 23:42:07,125 - INFO - Text typed successfully
+2025-09-23 23:42:12,697 - INFO - File saved successfully: post 3.txt
+2025-09-23 23:42:12,697 - INFO - Successfully processed post 3
+2025-09-23 23:42:13,698 - INFO - Processing post 4...
+2025-09-23 23:42:19,428 - INFO - Text typed successfully
+2025-09-23 23:42:24,999 - INFO - File saved successfully: post 4.txt
+2025-09-23 23:42:25,000 - INFO - Successfully processed post 4
+2025-09-23 23:42:26,000 - INFO - Processing post 5...
+2025-09-23 23:42:31,207 - INFO - Text typed successfully
+2025-09-23 23:42:36,782 - INFO - File saved successfully: post 5.txt
+2025-09-23 23:42:36,783 - INFO - Successfully processed post 5
+2025-09-23 23:42:37,784 - INFO - Processing post 6...
+2025-09-23 23:42:43,799 - INFO - Text typed successfully
+2025-09-23 23:42:49,367 - INFO - File saved successfully: post 6.txt
+2025-09-23 23:42:49,367 - INFO - Successfully processed post 6
+2025-09-23 23:42:50,368 - INFO - Processing post 7...
+2025-09-23 23:42:55,561 - INFO - Text typed successfully
+2025-09-23 23:43:01,133 - INFO - File saved successfully: post 7.txt
+2025-09-23 23:43:01,133 - INFO - Successfully processed post 7
+2025-09-23 23:43:02,134 - INFO - Processing post 8...
+2025-09-23 23:43:07,722 - INFO - Text typed successfully
+2025-09-23 23:43:13,292 - INFO - File saved successfully: post 8.txt
+2025-09-23 23:43:13,292 - INFO - Successfully processed post 8
+2025-09-23 23:43:14,293 - INFO - Processing post 9...
+2025-09-23 23:43:19,760 - INFO - Text typed successfully
+2025-09-23 23:43:25,334 - INFO - File saved successfully: post 9.txt
+2025-09-23 23:43:25,334 - INFO - Successfully processed post 9
+2025-09-23 23:43:26,335 - INFO - Processing post 10...
+2025-09-23 23:43:31,467 - INFO - Text typed successfully
+2025-09-23 23:43:37,043 - INFO - File saved successfully: post 10.txt
+2025-09-23 23:43:37,043 - INFO - Successfully processed post 10
+2025-09-23 23:43:38,044 - INFO - Notepad closed successfully
+2025-09-23 23:43:38,044 - INFO - Automation completed. Stats: {'total_posts': 10, 'successful_posts': 10, 'failed_posts': 0}
+2025-09-23 23:43:38,559 - INFO - Starting TJM Automation Bot...
+2025-09-23 23:43:38,560 - INFO - Output directory ready: C:\Users\abdsh\Desktop\tjm-project
+2025-09-23 23:43:38,560 - INFO - Fetching 10 posts from API...
+2025-09-23 23:43:38,987 - INFO - Successfully fetched 10 posts
