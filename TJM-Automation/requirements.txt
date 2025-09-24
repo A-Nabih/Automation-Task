@@ -1,0 +1,24 @@
+# Core automation libraries
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+pywinauto>=0.6.8
+pyperclip>=1.8.2
+
+# HTTP requests for API calls
+requests>=2.31.0
+
+# File and system operations
+pathlib2>=2.3.7
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Logging and error handling
+colorlog>=6.7.0
+
+# Packaging dependencies
+pyinstaller>=5.13.2
+
+# Optional: Enhanced automation capabilities
+pillow>=10.0.0
+opencv-python>=4.8.0
